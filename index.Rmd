@@ -360,7 +360,7 @@ class: center, middle
 
 # Thanks!
 
-Slides created via the R packages:
+Slides created via the R packages2:
 
 [**xaringan**](https://github.com/yihui/xaringan)<br>
 [gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
